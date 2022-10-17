@@ -1,20 +1,37 @@
-,Nombre,Tipo,Link
-0,Tofu Pad Thai,Veg,https://www.goodhousekeeping.com/food-recipes/easy/a48188/tofu-pad-thai-recipe/
-1,Chipotle Lentil Chili,Veg,https://www.goodhousekeeping.com/food-recipes/a34131/chipotle-lentil-chili/
-2,Traditional Chicken Curry,Meat,https://www.goodhousekeeping.com/food-recipes/a7386/chicken-curry/
-3,Grilled Steak Tortilla Salad,Meat,https://www.goodhousekeeping.com/food-recipes/easy/a19855342/grilled-steak-tortilla-salad-recipe/
-4,Honey-Ginger Cedar Plank Salmon,Fish,https://www.goodhousekeeping.com/food-recipes/a44681/honey-ginger-cedar-plank-salmon-recipe/
-5,Butternut & bacon fusilli,Pasta,https://www.bbcgoodfood.com/recipes/butternut-bacon-fusilli
-6,Cannelloni ricotta e spinaci ,Veg,https://www.bbcgoodfood.com/recipes/spinach-ricotta-cannelloni
-7,Vegetable Ramen with Mushrooms and Bok Choy,Veg,https://www.goodhousekeeping.com/food-recipes/easy/a22729685/vegetable-ramen-with-mushrooms-and-bok-choy-recipe/
-8,Hawaiian Tuna Bowl,Fish,https://www.goodhousekeeping.com/food-recipes/a38844/hawaiian-tuna-bowl-recipe/
-9,Smoked salmon pasta,Pasta,https://www.bbcgoodfood.com/recipes/smoked-salmon-spaghetti-chilli-lemon
-10,Khao pad Thai ,Veg,https://www.food.com/recipe/kao-pad-thai-style-fried-rice-135330
-11,Lentils Dahl ,Veg,https://nourishplate.com/lentil-dahl-recipe/
-12,Pomegranate-Honey Glazed Chicken and Squash,Meat,https://www.goodhousekeeping.com/food-recipes/easy/a46930/pomegranate-honey-glazed-chicken-and-squash-recipe/
-13,Shrimp Packets with Kale Couscous,Fish,https://www.goodhousekeeping.com/food-recipes/easy/a21602660/shrimp-packets-with-kale-couscous-recipe/
-14,"Orecchiette with cavolo nero, anchovies & pangrattato",Pasta,https://www.bbcgoodfood.com/recipes/orecchiette-cavolo-nero-anchovies-pangrattato
-15,Risotto zafferano ,Veg,Saffron risotto recipe | BBC Good Food
-16,Gnocchi al pesto,Veg,https://littlesunnykitchen.com/creamy-pesto-gnocchi/
-17,Taco Pie,Meat,Easy Taco Pie Recipe | Life Tastes Good (ourlifetastesgood.com)
-18,Wholewheat spaghetti & avocado sauce,Pasta,https://www.bbcgoodfood.com/recipes/wholewheat-spaghetti-avocado-sauce
+,Nombre,Tipo,Link,Tag
+0,Tofu Pad Thai,Veg,https://www.goodhousekeeping.com/food-recipes/easy/a48188/tofu-pad-thai-recipe/,
+1,Chipotle Lentil Chili,Veg,https://www.goodhousekeeping.com/food-recipes/a34131/chipotle-lentil-chili/,
+2,Traditional Chicken Curry,Meat,https://www.goodhousekeeping.com/food-recipes/a7386/chicken-curry/,
+3,Grilled Steak Tortilla Salad,Meat,https://www.goodhousekeeping.com/food-recipes/easy/a19855342/grilled-steak-tortilla-salad-recipe/,
+4,Honey-Ginger Cedar Plank Salmon,Fish,https://www.goodhousekeeping.com/food-recipes/a44681/honey-ginger-cedar-plank-salmon-recipe/,
+5,Butternut & bacon fusilli,Pasta,https://www.bbcgoodfood.com/recipes/butternut-bacon-fusilli,
+6,Cannelloni ricotta e spinaci ,Veg,https://www.bbcgoodfood.com/recipes/spinach-ricotta-cannelloni,
+7,Vegetable Ramen with Mushrooms and Bok Choy,Veg,https://www.goodhousekeeping.com/food-recipes/easy/a22729685/vegetable-ramen-with-mushrooms-and-bok-choy-recipe/,
+8,Hawaiian Tuna Bowl,Fish,https://www.goodhousekeeping.com/food-recipes/a38844/hawaiian-tuna-bowl-recipe/,
+9,Smoked salmon pasta,Pasta,https://www.bbcgoodfood.com/recipes/smoked-salmon-spaghetti-chilli-lemon,
+10,Khao pad Thai ,Veg,https://www.food.com/recipe/kao-pad-thai-style-fried-rice-135330,
+11,Lentils Dahl ,Veg,https://nourishplate.com/lentil-dahl-recipe/,
+12,Pomegranate-Honey Glazed Chicken and Squash,Meat,https://www.goodhousekeeping.com/food-recipes/easy/a46930/pomegranate-honey-glazed-chicken-and-squash-recipe/,
+13,Shrimp Packets with Kale Couscous,Fish,https://www.goodhousekeeping.com/food-recipes/easy/a21602660/shrimp-packets-with-kale-couscous-recipe/,
+14,"Orecchiette with cavolo nero, anchovies & pangrattato",Pasta,https://www.bbcgoodfood.com/recipes/orecchiette-cavolo-nero-anchovies-pangrattato,
+15,Risotto zafferano ,Veg,Saffron risotto recipe | BBC Good Food,
+16,Gnocchi al pesto,Veg,https://littlesunnykitchen.com/creamy-pesto-gnocchi/,
+17,Taco Pie,Meat,Easy Taco Pie Recipe | Life Tastes Good (ourlifetastesgood.com),
+18,Wholewheat spaghetti & avocado sauce,Pasta,https://www.bbcgoodfood.com/recipes/wholewheat-spaghetti-avocado-sauce,
+19,Torta salata ricotta e spinaci,Veg,https://www.oreegano.com/en-us/recipe/torta-salata-ricotta-e-spinaci-by-paneebirtilla-88sd3gvrwa,
+20,Vegan ratatouille ,Veg,https://avirtualvegan.com/quick-easy-ratatouille/,
+21,Pad Thai ,Meat,Pad Thai | RecipeTin Eats,
+22,Shrimp and Zucchini Scampi,Pasta,https://www.goodhousekeeping.com/food-recipes/easy/a34146/shrimp-and-zucchini-scampi/,
+23,Mushroom stroganoff ,Veg,https://www.olivemagazine.com/recipes/vegetarian/mushroom-stroganoff/,
+24,Risotto mushrooms ,Veg,https://www.allrecipes.com/recipe/85389/gourmet-mushroom-risotto/,
+25,Butter Chicken with Cauliflower Rice ,Meat,Cleaned Up Creamy Butter Chicken with Cauliflower Rice (thatcleanlife.com),
+26,Jalapeno and Chorizo Macaroni and Cheese,Pasta,https://ericasrecipes.com/jalapeno-and-chorizo-macaroni-and-cheese/,
+27,Mushroom quesadillas ,Veg,https://www.simplyrecipes.com/recipes/crispy_cheese_and_mushroom_quesadillas/,
+28,Carrot burger ,Veg,https://www.bbcgoodfood.com/recipes/carrot-sesame-burgers,
+29,Meatballs with mashed potatoes ,Meat,Easy Meatballs & Mashed Potatoes - A Food Lover's Kitchen (afoodloverskitchen.com),
+30,Spaghetti with garlic mushrooms & prosciutto,Pasta,https://www.bbcgoodfood.com/recipes/spaghetti-garlic-mushrooms-prosciutto,
+31,Cocounut Lentil Curry ,Veg,Creamy Coconut Lentil Curry - The Endless Meal®,
+32,Pumpkin and chickpeas stew ,Veg,https://simple-veganista.com/moroccan-pumpkin-chickpea-stew/,
+33,Calf stew with potatoes ,Meat,https://www.academiabarilla.it/en/ricetta/veal-stew-with-potatoes/,
+34,Prawns and Couscous ,Fish,20-Minute Prawns and Couscous with Yoghurt-Hummus Sauce (foodnetwork.co.uk),
+35,Conchiglioni ripieni ,Pasta,,
